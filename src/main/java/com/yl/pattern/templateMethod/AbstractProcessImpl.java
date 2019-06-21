@@ -1,4 +1,4 @@
-package com.yl.pattern.TemplateMethod;
+package com.yl.pattern.templateMethod;
 
 /**
  * @description 模板方法模式

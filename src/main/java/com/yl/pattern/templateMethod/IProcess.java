@@ -1,9 +1,9 @@
-package com.yl.pattern.TemplateMethod;
+package com.yl.pattern.templateMethod;
 
 public interface IProcess {
 
     /**
-     * @Function: com.yl.pattern.TemplateMethod.IProcess::process
+     * @Function: com.yl.pattern.templateMethod.IProcess::process
      * @description 流程处理
      * @throws Exception
      * @version v1.1.0

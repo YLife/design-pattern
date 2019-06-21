@@ -1,4 +1,4 @@
-package com.yl.pattern.TemplateMethod;
+package com.yl.pattern.templateMethod;
 
 public class TaskProcessImpl extends AbstractProcessImpl {
 
